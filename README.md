@@ -11,3 +11,5 @@ problems: http://codeforces.com/group/CYMPFXi8zA/contest/234464/problems
 problems: http://codeforces.com/group/CYMPFXi8zA/contest/240094/problems
 ### 5. Binary search tree
 problems: http://codeforces.com/group/CYMPFXi8zA/contest/241546/problems
+### 6. Queries on trees
+problems: http://codeforces.com/group/CYMPFXi8zA/contest/243321/problems
